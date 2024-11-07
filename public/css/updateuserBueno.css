@@ -1,0 +1,13 @@
+.actualizacion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.rowMY{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 50px;
+}

@@ -1,0 +1,28 @@
+.col-3 {
+    border-right: 3px solid black;
+}
+
+.texto {
+    text-align: center;
+    vertical-align: middle
+}
+
+.hrefs {
+    margin: 1%;
+    border: 3px solid #B7D156;
+    justify-content: center;
+    display: flex;
+}
+
+.enlaces {
+    margin-top: 5%;
+}
+
+.link {
+    color: #323131;
+
+}
+
+href {
+    vertical-align: middle;
+}

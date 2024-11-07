@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(176, 228, 245);
+    padding: 2%;
+}
+
+.row {
+    border: 2px solid black;
+    padding: 10%;
+}
+
+.col {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.paginator {
+    margin-bottom: 2%;
+}
